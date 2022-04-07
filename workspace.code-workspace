@@ -3,5 +3,15 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"Novel.preview.linelength": 42,
+		"Novel.preview.linesperpage": 34,
+		"Novel.preview.fontsize": "10pt",
+		"editor.fontFamily": "'Source Han Code JP'",
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.wordWrapColumn": 68,
+		"search.useIgnoreFiles": false,
+		"files.eol": "\n"
+	}
 }
