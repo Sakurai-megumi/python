@@ -8,9 +8,7 @@
 # s = "黄昏の獅子から暁の乙女へ"
 # print(s[11])
 # print(s +"-> "+s[12-1])
-
-from dataclasses import replace
-from hashlib import sha3_224
+# print(s + "-->"+ " "  + s[11])
 
 
 # s = "黄昏の獅子から暁の乙女へ"
@@ -25,3 +23,6 @@ i = 11235
 
 print(s1+str(i)+s2)
 #print(s1+i+s2)  #エラー
+
+import random
+print(random.randint(1,6))
