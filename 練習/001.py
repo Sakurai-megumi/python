@@ -17,12 +17,12 @@
 # print(s[7:])
 # print(s.replace("乙女","處女"))
 
+import random
 s1 = "あなたは"
 s2 = "番目のお客様です"
 i = 11235
 
 print(s1+str(i)+s2)
-#print(s1+i+s2)  #エラー
+# print(s1+i+s2)  # エラー
 
-import random
-print(random.randint(1,6))
+print(random.randint(1, 6))
